@@ -1,0 +1,2 @@
+echo "new fiele"
+Sun Jul  6 16:16:42     2025
