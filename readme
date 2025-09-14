@@ -1,2 +1,9 @@
-  PID TTY           TIME CMD
+<<<<<<< HEAD
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     2004    2003    2004      46184  pty0      197609 20:23:34 /usr/bin/bash
+     2067    2004    2067      39468  pty0      197609 20:58:36 /usr/bin/ps
+     2003       1    2003      46196  ?         197609 20:23:34 /usr/bin/mintty
+=======
+###  PID TTY           TIME CMD
  2441 ttys000    0:00.04 -zsh
+>>>>>>> upstream/main
