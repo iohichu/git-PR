@@ -5,3 +5,6 @@
 Открой вкладку "Branches"
 (https://github.com/твой_логин/репозиторий/branches)
 Найди ветку upcheckout
+#proba
+echo "Date"
+
